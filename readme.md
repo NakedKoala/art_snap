@@ -2,7 +2,7 @@
 
 Escape the mundanne reality and step into a fantasy world of Van Gogh's painting !
 
-Demo Video
+[Demo Video](https://youtu.be/m8rFymXTjbk)
 
 Artistic snap beautify short video clips using neural transfer techniques outlined in [Leon Gatys et al](https://arxiv.org/abs/1508.06576) paper. The mobile frontend is published o Apple Store  [Placeholder].
 
