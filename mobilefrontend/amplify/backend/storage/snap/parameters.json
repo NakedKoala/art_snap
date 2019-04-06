@@ -1,0 +1,9 @@
+{
+    "bucketName": "snapmobile",
+    "authPolicyName": "s3_amplify_48688ebc",
+    "unauthPolicyName": "s3_amplify_48688ebc",
+    "authRoleName": "snap-20181217013558-authRole",
+    "unauthRoleName": "snap-20181217013558-unauthRole",
+    "authPermissions": "rw",
+    "unauthPermissions": "rw"
+}
