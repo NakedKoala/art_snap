@@ -192,7 +192,7 @@ export default class App extends Component {
     await Storage.put(key, fileObject, access)
     // apiKey: 'b111c6bbfde0bc5a8357eada913762' 
     let headers = {
-      "x-api-key": 'b111c6bbfde0bc5a8357eada913762',
+      "x-api-key": '***********',
       "Content-Type": "application/json"
     }
     let body = {
